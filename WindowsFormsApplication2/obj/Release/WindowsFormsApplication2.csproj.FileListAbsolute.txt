@@ -1,0 +1,13 @@
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form2.resources
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\TitleToFile.exe.config
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\TitleToFile.exe.manifest
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\TitleToFile.application
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\TitleToFile.exe
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\TitleToFile.pdb
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\TitleToFile.exe.manifest
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\TitleToFile.application
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\TitleToFile.exe
+c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\TitleToFile.pdb
