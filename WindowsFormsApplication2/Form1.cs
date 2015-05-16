@@ -50,12 +50,14 @@ namespace WindowsFormsApplication2
 
         private void mainproc_Tick(object sender, EventArgs e)
         {
+            string nowTitle = Win32Api.getTitle(hwnd);
+            nowTitleText.Text = nowTitle;
             UTF8Encoding utf8writer = new UTF8Encoding(false);
             StreamWriter swr = null;
             try
             {
                 swr = new StreamWriter(saveFileText.Text, false, utf8writer);
-                swr.Write(prefixStrText.Text + Win32Api.getTitle(hwnd) + suffixStrText.Text);
+                swr.Write(prefixStrText.Text + nowTitle + suffixStrText.Text);
             }
             catch (Exception expt)
             {

@@ -8,3 +8,17 @@ c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\Wi
 c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
 c:\users\tedzy\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\TitleToFile\titletofile\WindowsFormsApplication2\bin\Debug\TitleToFile.exe.config
+D:\TitleToFile\titletofile\WindowsFormsApplication2\bin\Debug\TitleToFile.exe.manifest
+D:\TitleToFile\titletofile\WindowsFormsApplication2\bin\Debug\TitleToFile.application
+D:\TitleToFile\titletofile\WindowsFormsApplication2\bin\Debug\TitleToFile.exe
+D:\TitleToFile\titletofile\WindowsFormsApplication2\bin\Debug\TitleToFile.pdb
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\TitleToFile.exe.manifest
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\TitleToFile.application
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\TitleToFile.exe
+D:\TitleToFile\titletofile\WindowsFormsApplication2\obj\Debug\TitleToFile.pdb
