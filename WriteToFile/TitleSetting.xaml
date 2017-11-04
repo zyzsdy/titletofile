@@ -1,0 +1,32 @@
+﻿<Window x:Class="WriteToFile.TitleSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WriteToFile"
+        mc:Ignorable="d"
+        Title="捕获标题详细设置" Height="460" Width="450" Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel Height="100" Margin="0,10,0,0" VerticalAlignment="Top">
+            <Grid Height="30" Margin="10">
+                <Label Content="前导文本" Width="60" HorizontalAlignment="Left" VerticalContentAlignment="Center"/>
+                <TextBox x:Name="PrefixTextBox" Margin="60,0,0,0" VerticalContentAlignment="Center" TextChanged="PrefixTextBox_TextChanged"/>
+            </Grid>
+            <Grid Height="30" Margin="10">
+                <Label Content="后缀文本" Width="60" HorizontalAlignment="Left" VerticalContentAlignment="Center"/>
+                <TextBox x:Name="SuffixTextBox" Margin="60,0,0,0" VerticalContentAlignment="Center" TextChanged="SuffixTextBox_TextChanged"/>
+            </Grid>
+        </StackPanel>
+        <Grid Height="30" Margin="10,115,10,0" VerticalAlignment="Top">
+            <Label Content="请选择待捕获标题的窗口：" HorizontalAlignment="Left" VerticalContentAlignment="Center"/>
+            <Button x:Name="RefreshEnumWindowButton" Width="60" HorizontalAlignment="Right" Click="RefreshEnumWindowButton_Click">刷新</Button>
+        </Grid>
+        <ListBox x:Name="windowList" Margin="10,150,10,50"/>
+        <StackPanel Height="30" Margin="10,0,10,10" VerticalAlignment="Bottom" Orientation="Horizontal" FlowDirection="RightToLeft">
+            <Button Width="60" HorizontalAlignment="Right" Margin="10,0,10,0" IsCancel="True">取消</Button>
+            <Button x:Name="OK" Width="60" HorizontalAlignment="Right" Margin="10,0,10,0" IsDefault="True" Click="OK_Click">确定</Button>
+        </StackPanel>
+
+
+    </Grid>
+</Window>
